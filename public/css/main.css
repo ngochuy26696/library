@@ -1,0 +1,67 @@
+.item{
+    width: 45%;
+    padding: 1%;
+    border: 1px dotted;
+    border-radius: 7px;
+    margin: 1%;
+    background-color: whitesmoke;
+}
+
+.list-item{
+    display: flex;
+    flex-flow: wrap;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    color: black;
+}
+
+.about{
+    margin: 1%;
+    font-size: 120%;
+}
+
+.contact{
+    margin: 1%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 140%;
+}
+
+.side-bar{
+    padding: 1%;
+    margin-top: 1%;
+}
+
+.add-to-cart{
+    margin-left: 70%;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.publisher{
+    font-style: italic;
+}
+
+.input-search{
+    margin-left: 71%;
+    border-radius: 7px;
+}
+
+.category-name{
+    font-size: 140%;
+    color: #282349;
+}
+
+.navbar{
+    padding-left: 10%;
+}
+
+.card-footer{
+    padding-left: 10%;
+}
